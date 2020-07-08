@@ -1,1 +1,1 @@
-# tf_nmt-att
+# TensorFlow Machine Translation with Attention
